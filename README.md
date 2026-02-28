@@ -11,11 +11,11 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=wegonbeok45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=wegonbeok45&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="left">
-      <!-- We will fill the second half in the next step -->
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wegonbeok45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
