@@ -1,58 +1,5 @@
 <div align="center">
 
-  <h1 align="center">⚡ Welcome to my workspace ⚡</h1>
-  
-  <p align="center">
-    <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-  </p>
-
-  <br/>
-
-  <p align="center">
-    <a href="https://github.com/wegonbeok45">
-      <img src="https://komarev.com/ghpvc/?username=wegonbeok45&label=Profile%20Views&color=171210&style=for-the-badge" alt="Profile Views" />
-    </a>
-  </p>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  
-## 🌌 `About Me`
-
-I'm a developer specializing in modern web applications (Next.js, React, Tailwind CSS) and Android app development. I'm passionate about building sleek, high-performance applications with a focus on immersive aesthetics. When I'm not coding, I'm probably diving into new tech stacks, listening to aesthetic music drops, or hunting for the ultimate dark mode theme.
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🎧 `On Rotation`
-
-<p align="center">
-  <a href="https://soundcloud.com/search?q=alucard%20bleood" target="_blank">
-    <img src="mixtape_alucard.png" width="300" alt="Alucard by Bleood" style="border-radius: 12px; margin: 0 10px;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=eq-yoorI7lk" target="_blank">
-    <img src="mixtape_hero.png" width="300" alt="Hero by Foo Fighters" style="border-radius: 12px; margin: 0 10px;" />
-  </a>
-</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 📊 `Advanced Metrics`
-*(Auto-updates nightly via GitHub Actions)*
-
 <img src="https://raw.githubusercontent.com/wegonbeok45/wegonbeok45/main/github-metrics.svg" alt="Advanced GitHub Metrics Dashboard" style="border-radius: 12px; margin-top: 10px;" onerror="this.style.display='none'" />
 </div>
 
