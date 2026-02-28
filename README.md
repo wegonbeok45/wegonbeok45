@@ -15,7 +15,8 @@
     <td width="50%" valign="top">
       <h2 align="left">wegonbeok45</h2>
       <p align="left">
-        Joined GitHub 2 years ago
+        Joined GitHub 2 years ago<br>
+        Followed by 7 users
       </p>
     </td>
     <td width="50%" valign="top">
