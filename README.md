@@ -37,6 +37,33 @@ I'm a developer exploring the digital universe. Passionate about building sleek,
 
 <div align="center">
 
+## 🎧 `On Rotation`
+
+<p align="center">
+  <a href="https://soundcloud.com/search?q=alucard%20bleood" target="_blank">
+    <img src="mixtape_alucard.png" width="300" alt="Alucard by Bleood" style="border-radius: 12px; margin: 0 10px;" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=eq-yoorI7lk" target="_blank">
+    <img src="mixtape_hero.png" width="300" alt="Hero by Foo Fighters" style="border-radius: 12px; margin: 0 10px;" />
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📊 `Advanced Metrics`
+*(Auto-updates nightly via GitHub Actions)*
+
+<img src="https://raw.githubusercontent.com/wegonbeok45/wegonbeok45/main/github-metrics.svg" alt="Advanced GitHub Metrics Dashboard" style="border-radius: 12px; margin-top: 10px;" onerror="this.style.display='none'" />
+</div>
+
+<br/>
+
+<div align="center">
+
 ## 🛠️ `Tech Arsenal`
 
 <p align="center">
