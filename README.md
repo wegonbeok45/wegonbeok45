@@ -3,8 +3,8 @@
   
   <br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=50&lines=%E2%80%9CThe+computer+programmer+is+a+creator+of+universes+for+which+he+alone+is+the+lawgiver.%E2%80%9D;%E2%80%9CComputer+science+is+no+more+about+computers+than+astronomy+is+about+telescopes.%E2%80%9D;%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D;%E2%80%9CThere+are+only+two+hard+things+in+CS%3A+cache+invalidation+and+naming+things.%E2%80%9D" alt="Typing Quotes" />
+  <a href="https://github.com/wegonbeok45">
+    <img src="quote.svg" alt="Typing Quotes" />
   </a>
 
   <br><br>
