@@ -10,16 +10,28 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-canary.vercel.app/api?username=wegonbeok45&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-canary.vercel.app/api/top-langs/?username=wegonbeok45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-canary.vercel.app/api?username=wegonbeok45&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-canary.vercel.app/api/top-langs/?username=wegonbeok45&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+  
+  ### 🛠️ Tech Stack & Tools
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,figma" />
+  </p>
+
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wegonbeok45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
-> [!NOTE] 
-> **Action Required**: To show the detailed Simon Lecoq style metrics below, you need to add a `METRICS_TOKEN` secret to your repository settings (Settings -> Secrets -> Actions).
+<br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wegonbeok45/wegonbeok45/main/4f79e4f17d8563d4c1c9201aa4f1eb8a.gif" width="100%" />
+</div>
