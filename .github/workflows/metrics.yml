@@ -21,7 +21,7 @@ jobs:
           # Options
           user: wegonbeok45
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, repositories, metadata
           config_timezone: UTC
           
           # Aesthetics - Matches your dark exact color
