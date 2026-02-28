@@ -1,18 +1,3 @@
 <div align="center">
-  <h1>Welcome to my GitHub! 👋</h1>
-  <p>Software Engineer | Explorer | Creator</p>
+  <!-- We will put your new header here! -->
 </div>
-
----
-
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/wegonbeok45/Profile/main/general.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/wegonbeok45/Profile/main/achievements.svg">](#)
-
-<br clear="both"/>
-
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/wegonbeok45/Profile/main/sponsors.svg">](https://github.com/sponsors/wegonbeok45)
-
-<br clear="both"/>
-<br/>
-
-<sub>These infographics were generated using [wegonbeok45/metrics](https://github.com/lowlighter/metrics)</sub>
