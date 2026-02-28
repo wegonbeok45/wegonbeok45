@@ -5,12 +5,12 @@
 
 ---
 
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/wegonbeok45/wegonbeok45/main/general.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/wegonbeok45/wegonbeok45/main/achievements.svg">](#)
+[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/wegonbeok45/Profile/main/general.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/wegonbeok45/Profile/main/achievements.svg">](#)
 
 <br clear="both"/>
 
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/wegonbeok45/wegonbeok45/main/sponsors.svg">](https://github.com/sponsors/wegonbeok45)
+[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/wegonbeok45/Profile/main/sponsors.svg">](https://github.com/sponsors/wegonbeok45)
 
 <br clear="both"/>
 <br/>
