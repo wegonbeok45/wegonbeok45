@@ -14,6 +14,6 @@
   <br>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,react,python,js,ts,nodejs,nextjs,html,css,tailwind,git,github,githubactions,docker,workers,postman,mongodb,postgres,tensorflow,pytorch,opencv,selenium,fastapi,java,firebase,vscode,figma,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=kotlin,react,python,js,ts,nodejs,nextjs,html,css,tailwind,git,github,githubactions,docker,workers,postman,mongodb,postgres,tensorflow,pytorch,opencv,selenium,fastapi,java,firebase,vscode,figma,androidstudio,aws,linux" />
   </p>
 </div>
