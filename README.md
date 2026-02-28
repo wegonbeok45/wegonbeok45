@@ -12,12 +12,13 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💫 About Me</h3>
-      <!-- Placeholder for left side -->
+    <td width="50%" valign="top" align="left">
+      <h2 align="left">wegonbeok45</h2>
+      <p align="left">
+        📅 Joined GitHub 2 years ago
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛠️ Tech Stack</h3>
       <!-- Placeholder for right side -->
     </td>
   </tr>
