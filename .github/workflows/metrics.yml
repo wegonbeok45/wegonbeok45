@@ -26,6 +26,7 @@ jobs:
           
           # Aesthetics - Matches your dark exact color
           config_theme: dark
+          config_display: large
           
           # Plugins
           
