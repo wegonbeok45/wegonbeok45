@@ -9,7 +9,7 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Metal+Mania&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=S+K+I+L+L+S" alt="Skills Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Metal+Mania&size=35&duration=500&pause=100&color=FFFFFF&center=true&vCenter=true&width=435&lines=S+K+I+L+L+S;++++++++;S+K+I+L+L+S;++++++++;S+K+I+L+L+S" alt="Fast Flashing Skills Header" />
 
   <br>
 
