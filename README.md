@@ -10,9 +10,9 @@
 
 <br>
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td width="50%" valign="top" align="left">
+    <td width="50%" valign="top">
       <h2 align="left">wegonbeok45</h2>
       <p align="left">
         📅 Joined GitHub 2 years ago
