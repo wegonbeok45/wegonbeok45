@@ -1,12 +1,18 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/wegonbeok45/wegonbeok45/main/github-metrics.svg" alt="Advanced GitHub Metrics Dashboard" style="border-radius: 12px; margin-top: 10px;" onerror="this.style.display='none'" />
+  <h1>Welcome to my GitHub! 👋</h1>
+  <p>Software Engineer | Explorer | Creator</p>
 </div>
 
+---
 
+[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/wegonbeok45/wegonbeok45/main/general.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/wegonbeok45/wegonbeok45/main/achievements.svg">](#)
 
+<br clear="both"/>
+
+[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/wegonbeok45/wegonbeok45/main/sponsors.svg">](https://github.com/sponsors/wegonbeok45)
+
+<br clear="both"/>
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=171210&height=100&section=footer"/>
-</div>
+<sub>These infographics were generated using [wegonbeok45/metrics](https://github.com/lowlighter/metrics)</sub>
