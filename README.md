@@ -7,3 +7,18 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=%E2%80%9CThe+computer+programmer+is+a+creator+of+universes+for+which+he+alone+is+the+lawgiver.%E2%80%9D;%E2%80%9CComputer+science+is+no+more+about+computers+than+astronomy+is+about+telescopes.%E2%80%9D;%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D;%E2%80%9CThere+are+only+two+hard+things+in+CS%3A+cache+invalidation+and+naming+things.%E2%80%9D" alt="Typing Quotes" />
   </a>
 </div>
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💫 About Me</h3>
+      <!-- Placeholder for left side -->
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ Tech Stack</h3>
+      <!-- Placeholder for right side -->
+    </td>
+  </tr>
+</table>
