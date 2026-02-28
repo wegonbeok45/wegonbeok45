@@ -60,7 +60,7 @@ I'm a developer exploring the digital universe. Passionate about building sleek,
 ## 📈 `GitHub Stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wegonbeok45&show_icons=true&title_color=ffffff&icon_color=0e75b6&text_color=ffffff&bg_color=171210&hide_border=true" alt="wegonbeok45's GitHub stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wegonbeok45&show_icons=true&title_color=ffffff&icon_color=0e75b6&text_color=ffffff&bg_color=171210&hide_border=true" alt="wegonbeok45's GitHub stats" />
   <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wegonbeok45&background=171210&ring=0e75b6&fire=0e75b6&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="wegonbeok45's GitHub streak" />
