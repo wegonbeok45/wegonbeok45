@@ -61,11 +61,26 @@ jobs:
           plugin_music_mode: playlist
           plugin_music_playlist: https://embed.music.apple.com/fr/playlist/epick/pl.u-yZyVEeXtdN0PZzX
           
+          # Projects (Roadmap and todos)
+          plugin_projects: yes
+          plugin_projects_limit: 4
+
+      - name: Exact Skills Replicator
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Force it to pull lowlighter's exact starred topics
+          user: lowlighter
+          
+          # Disable the main header/activity so it ONLY outputs the skills module cleanly
+          base: ""
+          
+          filename: skills.svg
+          config_theme: dark
+          config_display: large
+          
           # Topics (Mastered technologies and topics)
           plugin_topics: yes
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
-          
-          # Projects (Roadmap and todos)
-          plugin_projects: yes
-          plugin_projects_limit: 4
