@@ -15,8 +15,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Use default GitHub token (no setup required)
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Use the personal access token securely stored in GitHub Secrets
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: wegonbeok45
