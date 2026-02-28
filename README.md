@@ -9,13 +9,17 @@
 
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=wegonbeok45&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wegonbeok45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats-canary.vercel.app/api?username=wegonbeok45&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-canary.vercel.app/api/top-langs/?username=wegonbeok45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+</div>
+
+> [!NOTE] 
+> **Action Required**: To show the detailed Simon Lecoq style metrics below, you need to add a `METRICS_TOKEN` secret to your repository settings (Settings -> Secrets -> Actions).
+
