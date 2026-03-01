@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" fill="none">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&amp;display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&amp;display=swap');
+
+    .bg-gothic {
+      font-family: 'Metal+Mania', cursive;
+      font-size: 80px;
+      fill: #1a1a1a;
+      opacity: 0.15;
+      animation: drift 15s linear infinite;
+    }
+
+    @keyframes drift {
+      0% { transform: translateX(-100px); }
+      100% { transform: translateX(100px); }
+    }
+
+    .quote-group {
+      opacity: 0;
+      animation: cycle-quotes 24s infinite;
+    }
+
+    .quote-text {
+      font-family: 'Fira Code', monospace;
+      font-size: 18px;
+      fill: #36BCF7;
+    }
+
+    .author-text {
+      font-family: 'Fira Code', monospace;
+      font-size: 16px;
+      fill: #FF4444;
+      font-weight: bold;
+      opacity: 0;
+      animation: show-author 6s infinite;
+    }
+
+    @keyframes cycle-quotes {
+      0%, 24.5% { opacity: 1; }
+      25%, 100% { opacity: 0; }
+    }
+
+    @keyframes show-author {
+      0%, 70% { opacity: 0; }
+      75%, 95% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+
+    .reveal-rect {
+      animation: type-mask 4.2s linear infinite;
+    }
+
+    @keyframes type-mask {
+      0% { width: 0; x: 500; }
+      70% { width: 1000; x: 0; }
+      100% { width: 1000; x: 0; }
+    }
+
+    #quote1 { animation-delay: 0s; }
+    #quote1 .author-text { animation-delay: 0s; }
+    
+    #quote2 { animation-delay: 6s; }
+    #quote2 .author-text { animation-delay: 6s; }
+
+    #quote3 { animation-delay: 12s; }
+    #quote3 .author-text { animation-delay: 12s; }
+
+    #quote4 { animation-delay: 18s; }
+    #quote4 .author-text { animation-delay: 18s; }
+  </style>
+
+  <defs>
+    <clipPath id="mask">
+      <rect class="reveal-rect" y="0" height="120" width="0" />
+    </clipPath>
+  </defs>
+
+  <!-- Moving Gothic Background -->
+  <text x="0" y="85" class="bg-gothic">VOID CODE DEATH VOID CODE DEATH</text>
+
+  <g id="quote1" class="quote-group">
+    <text x="500" y="50" text-anchor="middle" class="quote-text" clip-path="url(#mask)">“The computer programmer is a creator of universes for which he alone is the lawgiver.”</text>
+    <text x="500" y="90" text-anchor="middle" class="author-text">— Joseph Weizenbaum</text>
+  </g>
+
+  <g id="quote2" class="quote-group">
+    <text x="500" y="50" text-anchor="middle" class="quote-text" clip-path="url(#mask)">“Computer science is no more about computers than astronomy is about telescopes.”</text>
+    <text x="500" y="90" text-anchor="middle" class="author-text">— Edsger Dijkstra</text>
+  </g>
+
+  <g id="quote3" class="quote-group">
+    <text x="500" y="50" text-anchor="middle" class="quote-text" clip-path="url(#mask)">“First, solve the problem. Then, write the code.”</text>
+    <text x="500" y="90" text-anchor="middle" class="author-text">— John Johnson</text>
+  </g>
+
+  <g id="quote4" class="quote-group">
+    <text x="500" y="50" text-anchor="middle" class="quote-text" clip-path="url(#mask)">“There are only two hard things in CS: cache invalidation and naming things.”</text>
+    <text x="500" y="90" text-anchor="middle" class="author-text">— Phil Karlton</text>
+  </g>
+</svg>
